@@ -1,4 +1,4 @@
-# Appolo DEX
-Appolo Decentralized Exchange
+# Apollo DEX
+Apollo Decentralized Exchange
 
 Coming Soon
